@@ -1,9 +1,5 @@
 <div align="center">
 
-
-  ![Header](./header.png)
-
-
 </div>
 <div align="center">
   <a href="https://github.com/Cauabc">
